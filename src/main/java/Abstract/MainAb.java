@@ -2,6 +2,7 @@ package Abstract;
 abstract class A{
 	int a;
 	int b;
+	int c;
 	A(){
 		System.out.println("I am constructor");
 	}
